@@ -1,48 +1,23 @@
-# Hi there, I'm Neon! 👋 
+# Hi there, I'm Neon! 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Followers">
-</p>
+![Status](https://shields.io)
+![Followers](https://shields.io)
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **The Odin Project**
-- 🌱 I’m currently learning **Web Development**
-- 💬 Ask me about **Tech stuff**
-- ⚡ Fun fact **I started coding when i was a teenager**
+- 🔭 I am currently working my way through **The Odin Project** 
+- 🌱 I am actively focused on mastering **HTML** and web development fundamentals
+- ⚡ Fun fact: I love diving into coding logic and building new things from scratch
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <!-- Core Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-<p align="left">
-  <!-- Frameworks & Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+![My Skills](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Analytics
-<p align="left">
-  <img height="180" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180" src="https://vercel.app" alt="Top Languages" />
-</p>
+![GitHub Stats](https://shion.dev)
 
----
-
-### 📬 Connect With Me
-<p align="left">
-  </a>
-  <a href="mailto:alesioaxhami1@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+![Top Languages](https://shion.dev)
